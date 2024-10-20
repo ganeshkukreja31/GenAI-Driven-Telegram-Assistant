@@ -27,3 +27,18 @@ pip install -r requirements.txt
 
 ### AIogram docs
 https://docs.aiogram.dev/en/latest/
+
+## Telegram Setup:
+
+1. Search for botfather
+2. /newbot
+    - GenAiAssitant
+    - GenAiAssitantBot
+
+    * Now click on url to access the bot
+    * Make sure you collect the access token
+
+### Create a .env file in the root directory and add your OpenAI API key and Telegram BOT TOKEN as follows:
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
