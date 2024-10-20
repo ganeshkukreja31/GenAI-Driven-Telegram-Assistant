@@ -46,6 +46,8 @@ TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
  Run `my_bot.py` to start the bot
+
  Open Telegram and search for your bot username
+ 
  Start a conversation with your bot and enjoy!
 
