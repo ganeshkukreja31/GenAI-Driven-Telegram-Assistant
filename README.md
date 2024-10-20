@@ -24,3 +24,6 @@ conda activate GenAIAssitant
 ```bash
 pip install -r requirements.txt
 ```
+
+### AIogram docs
+https://docs.aiogram.dev/en/latest/
