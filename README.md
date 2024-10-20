@@ -45,7 +45,7 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
- Run `python src/chatgpt.py` to start the bot
+ Run `my_bot.py` to start the bot
  Open Telegram and search for your bot username
  Start a conversation with your bot and enjoy!
 
