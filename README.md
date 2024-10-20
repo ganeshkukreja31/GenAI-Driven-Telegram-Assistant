@@ -38,7 +38,14 @@ https://docs.aiogram.dev/en/latest/
     * Now click on url to access the bot
     * Make sure you collect the access token
 
-### Create a .env file in the root directory and add your OpenAI API key and Telegram BOT TOKEN as follows:
+### Create a `.env` file in the root directory and add your OpenAI API key and Telegram BOT TOKEN as follows:
+
+```ini
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+
+ Run `python src/chatgpt.py` to start the bot
+ Open Telegram and search for your bot username
+ Start a conversation with your bot and enjoy!
 
